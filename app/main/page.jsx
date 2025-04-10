@@ -45,9 +45,10 @@ export default function Main() {
                 <div className={styles.letter} ref={letter}>
                     <div className={styles.content}>
                         <p className={styles.to}>To. 효림</p>
-                        <p className={styles.line}>효림아 나는 언제나 너가 밝고</p>
-                        <p className={styles.line}>웃음이 가득했으면 좋겠어</p>
-                        <p className={styles.line}>오늘 하루도 힘내 사랑해</p>
+                        <p className={styles.line}>시험기간이다아 효림아 힘내ㅎㅎ</p>
+                        <p className={styles.line}>너가 매일매일 내 생각에 있었는데</p>
+                        <p className={styles.line}>요즘은 꿈에서도 나오려고 해</p>
+                        <p className={styles.line}>너가 없는 시간이 너무 길어! 사랑해</p>
                     </div>
                 </div>
             </div>
