@@ -44,11 +44,13 @@ export default function Main() {
                 <div className={styles.envelop}></div>
                 <div className={styles.letter} ref={letter}>
                     <div className={styles.content}>
-                        <p className={styles.to}>To. 효림</p>
-                        <p className={styles.line}>시험기간이다아 효림아 힘내ㅎㅎ</p>
-                        <p className={styles.line}>너가 매일매일 내 생각에 있었는데</p>
-                        <p className={styles.line}>요즘은 꿈에서도 나오려고 해</p>
-                        <p className={styles.line}>너가 없는 시간이 너무 길어! 사랑해</p>
+                        <p className={styles.to}>여기에서라도 말할게</p>
+                        <p className={styles.line}>효림아</p>
+                        <p className={styles.line}>카톡 보낸거 진심은 그게 아닌데..</p>
+                        <p className={styles.line}>할 말이 있는데</p>
+
+                        <p className={styles.line}>효림아 힘들면 밤이든 새벽이든</p>
+                        <p className={styles.line}>언제든 연락해도 돼</p>
                     </div>
                 </div>
             </div>
