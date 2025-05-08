@@ -47,7 +47,7 @@ export default function Main() {
                         <p className={styles.to}>여기에서라도 말할게</p>
                         <p className={styles.line}>효림아</p>
                         <p className={styles.line}>카톡 보낸거 진심은 그게 아닌데..</p>
-                        <p className={styles.line}>할 말이 있는데</p>
+                        <p className={styles.line}>할 말이 있는데 너 힘들면 안되는데</p>
 
                         <p className={styles.line}>효림아 힘들면 밤이든 새벽이든</p>
                         <p className={styles.line}>언제든 연락해도 돼</p>
