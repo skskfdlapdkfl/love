@@ -46,11 +46,11 @@ export default function Main() {
                     <div className={styles.content}>
                         <p className={styles.to}>여기에서라도 말할게</p>
                         <p className={styles.line}>효림아</p>
-                        <p className={styles.line}>카톡 보낸거 진심은 그게 아닌데..</p>
-                        <p className={styles.line}>할 말이 있는데 너 힘들면 안되는데</p>
+                        <p className={styles.line}>그러지 못 할거 알면서도</p>
+                        <p className={styles.line}>너 힘들면 안되는데..</p>
 
                         <p className={styles.line}>효림아 힘들면 밤이든 새벽이든</p>
-                        <p className={styles.line}>언제든 연락해도 돼</p>
+                        <p className={styles.line}>언제든 연락해도 괜찮아</p>
                     </div>
                 </div>
             </div>
